@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/mnt/Dosyalar/VSCodeWorkspace/cs-projeleri/capp-09-04-2018-2/capp-09-04-2018-2.csproj",
-      "projectName": "capp-09-04-2018-2",
-      "projectPath": "/mnt/Dosyalar/VSCodeWorkspace/cs-projeleri/capp-09-04-2018-2/capp-09-04-2018-2.csproj",
+      "projectUniqueName": "/mnt/Dosyalar/VSCodeWorkspace/ders-notlari-cs/direnc-kodlari-oyunu/direnc-kodlari-oyunu.csproj",
+      "projectName": "direnc-kodlari-oyunu",
+      "projectPath": "/mnt/Dosyalar/VSCodeWorkspace/ders-notlari-cs/direnc-kodlari-oyunu/direnc-kodlari-oyunu.csproj",
       "packagesPath": "/home/thesseyren/.nuget/packages/",
-      "outputPath": "/mnt/Dosyalar/VSCodeWorkspace/cs-projeleri/capp-09-04-2018-2/obj/",
+      "outputPath": "/mnt/Dosyalar/VSCodeWorkspace/ders-notlari-cs/direnc-kodlari-oyunu/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"

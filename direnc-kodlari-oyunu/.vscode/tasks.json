@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/capp-09-04-2018-2.csproj"
+                "${workspaceFolder}/direnc-kodlari-oyunu.csproj"
             ],
             "problemMatcher": "$msCompile"
         },
@@ -17,7 +17,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/capp-09-04-2018-2.csproj"
+                "${workspaceFolder}/direnc-kodlari-oyunu.csproj"
             ],
             "problemMatcher": "$msCompile"
         }
